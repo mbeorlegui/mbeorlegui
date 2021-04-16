@@ -3,6 +3,7 @@
 ## Soy estudiante de Ingeniería en Sistemas de Información 👨‍💻
 
 - 📚 Cursando tercer año en la UTN FRBA
+- 🔌 Soy Técnico en Electrónica
 - 🔭 Buscando trabajo
 - 👯 Buscando colaborar en proyectos y aprender
 - ⚽ Amante de los deportes
