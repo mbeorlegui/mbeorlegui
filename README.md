@@ -4,7 +4,7 @@
 
 - 📚 Cursando tercer año en la UTN FRBA
 - 🔌 Soy Técnico en Electrónica
-- 🔭 Buscando trabajo
+- 🔭 Actualmente trabajando en Soporte Tecnico Funcional en Lambda Sistemas SRL
 - 👯 Buscando colaborar en proyectos y aprender
 - ⚽ Amante de los deportes
 - 😄 22 años de edad
