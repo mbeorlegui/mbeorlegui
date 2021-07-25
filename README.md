@@ -12,7 +12,7 @@
 
 ---
 
-### Lenguajes y conocimientos 🛠 
+## Lenguajes y conocimientos 🛠 
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
