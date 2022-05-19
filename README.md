@@ -7,7 +7,7 @@
 - 💻 Actualmente trabajando de Desarrollador en Lambda Sistemas SRL
 - 👯 Buscando colaborar en proyectos y aprender
 - ⚽ Amante de los deportes
-- 😄 22 años de edad
+- 😄 23 años de edad
 - 📫 Podes contactarme en matiasbeorlegui@gmail.com
 
 ---
