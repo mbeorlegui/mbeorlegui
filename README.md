@@ -2,9 +2,9 @@
 
 ## Soy estudiante de Ingeniería en Sistemas de Información 👨‍💻
 
-- 📚 Cursando tercer año en la UTN FRBA
+- 🐍 Python Developer en Lambda Sistemas SRL
+- 💻 Cursando tercer año en la UTN FRBA
 - 🔌 Soy Técnico en Electrónica
-- 💻 Actualmente trabajando de Desarrollador en Lambda Sistemas SRL
 - 👯 Buscando colaborar en proyectos y aprender
 - ⚽ Amante de los deportes
 - 😄 23 años de edad
