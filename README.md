@@ -7,7 +7,7 @@
 - 🔌 Soy Técnico en Electrónica
 - 👯 Buscando colaborar en proyectos y aprender
 - ⚽ Amante de los deportes
-- 😄 23 años de edad
+- 😄 24 años de edad
 - 📫 Podes contactarme en matiasbeorlegui@gmail.com
 
 ---
